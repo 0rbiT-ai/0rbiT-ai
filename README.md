@@ -2,24 +2,22 @@
 
 ###
 
-<p align="left">Computer Science undergraduate and an aspiring Software Developer focused on Full-Stack Development and Problem Solving</p>
-
-###
-
-<div align="left">
+<p align="left">
+  Computer Science undergraduate and an aspiring Software Developer focused on Full-Stack Development and Problem Solving
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/b-akhilesh-ram" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" />
   </a>
   <a href="https://www.instagram.com/_.0rbit_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" />
   </a>
   <a href="https://discord.com/users/735753537455128596" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" />
   </a>
   <a href="mailto:akhilesh6249@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" />
   </a>
-</div>
+</p>
 
 ###
 
