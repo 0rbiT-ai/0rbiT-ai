@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Akhilesh</h1>
+<h1 align="left">Hey I'm Akhilesh</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🔹 I work with: HTML, CSS, JS, React, Java, Python, C++ <br>🔹 Focused on: Full-Stack Development with emphasis on Backend<br>🔹 Interested in: Building scalable applications, APIs, and Backend Systems<br>🔹 Currently improving: Spring Framework and System Design<br>🔹 Experience: Developing Full-Stack applications and contributing to open-source codebases</p>
+<p align="left"> Focused on: Full-Stack Development with emphasis on Backend<br> Interested in: Building scalable, modular and robust applications, APIs, and Backend Systems<br> Currently improving: Spring Framework, System Design, Cloud, DevOps<br> Experience: Developing Backend applications and contributing to open-source codebases</p>
 
 ###
 
@@ -72,22 +72,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"/>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="spring logo"/>
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"/>
   <img width="12" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=0rbiT-ai&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
 </div>
 
 ###
